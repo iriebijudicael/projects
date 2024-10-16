@@ -1,2 +1,2 @@
-# projects-
+# projects
 Dynamic Web Fundamentals
