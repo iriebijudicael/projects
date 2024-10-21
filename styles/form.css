@@ -101,9 +101,9 @@ footer p {
 }
 
 
-@media screen and (max-width: 768px) { /* Adjust breakpoint as needed */
+@media screen and (max-width: 768px) { 
     .review-container {
-      max-width: 90%; /* Make the container more responsive on smaller screens */
+      max-width: 90%; 
     }
   
     .rating {
@@ -113,7 +113,7 @@ footer p {
     }
   
     .star-rating label {
-      font-size: 1.1rem; /* Adjust font size for better readability */
+      font-size: 1.1rem; 
     }
     select, input[type="text"], textarea, input[type="date"] {
         width: 100%;
